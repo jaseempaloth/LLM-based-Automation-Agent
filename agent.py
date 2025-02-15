@@ -10,8 +10,7 @@ from task_handlers import (
     handle_file_operations,
     handle_llm_operations,
     handle_database_operations,
-    handle_embedding_operations,
-    handle_code_formatting
+    handle_embedding_operations
 )
 from security import SecurityValidator
 from business_handlers import (
@@ -21,7 +20,8 @@ from business_handlers import (
     handle_web_scraping,
     handle_image_processing,
     handle_audio_transcription,
-    handle_markdown_conversion
+    handle_markdown_conversion,
+    handle_code_formatting
 )
 
 class AutomationAgent:
