@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+openai
+pillow
+scikit-learn
+numpy
+python-multipart
+requests
+gitpython
+duckdb
+beautifulsoup4
+openai-whisper
+markdown
+pandas
+nodeenv
